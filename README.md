@@ -2,7 +2,8 @@
 
 Simulated Dataset Using AirSim for the Loaded vs. Unloaded UAV Classification Problem
 
-The description and data will be updated soon.
+# Dataset
+The dataset is accessible through this link.
 
 # Citation
 If you use this dataset for your work, please cite the following paper:
