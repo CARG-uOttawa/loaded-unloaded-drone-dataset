@@ -1,4 +1,4 @@
-# loaded-unloaded-drone-dataset
+# Loaded-unloaded-drone-dataset
 
 Simulated Dataset Using AirSim for the Loaded vs. Unloaded UAV Classification Problem
 
