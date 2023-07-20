@@ -3,7 +3,7 @@
 Simulated Dataset Using AirSim for the Loaded vs. Unloaded UAV Classification Problem
 
 # Dataset
-The dataset is accessible through this link.
+The dataset is accessible through this link (the link will be provided just after the presentation of the paper in SAS 2023 in July 2023).
 
 # Citation
 If you use this dataset for your work, please cite the following paper:
