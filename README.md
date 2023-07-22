@@ -6,7 +6,7 @@ Detecting payloads on Uncrewed (or Unmanned) Aerial Vehicles (UAVs) is crucial f
 The dataset is accessible through this link (the link will be provided just after the presentation of the paper in SAS 2023 in July 2023).
 
 # Annotation files
-The videos are recorded at a resolution of 1080x1920 pixels, and a frame rate of 10 fps. Each video is accompanied by an annotation file that contains the following information on each line:
+The videos are recorded at a resolution of 1080x1920 pixels, and a frame rate of 10 fps. The pixel indexing starts from (1, 1) at the top-left corner and goes up to (1080, 1920) at the bottom-right corner. Each video is accompanied by an annotation file that contains the following information on each line:
 
 [`Frame number` `Detection flag` `Xtl` `Ytl` `Xbr` `Ybr` `Xcamera` `Ycamera` `Zcamera` `Xdrone` `Ydrone` `Zdrone`]
 
